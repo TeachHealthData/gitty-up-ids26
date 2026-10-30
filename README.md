@@ -1,0 +1,33 @@
+# Gitty-up
+
+
+## What is this?
+
+This is your “howdy, world” GitHub repo. You can clone this from
+Rstudio:
+
+- New project
+- From “Version control”
+- Paste the url `https://github.com/TeachHealthData/gitty-up-ids26.git`
+
+## How to contribute to it
+
+Then you can create a new qmd file - name it as your student number
+(s123456.qmd). This is important - don’t add any other “useful”
+information into this filename.
+
+Then commit your file, and push to GitHub using either the RStudio Git
+pane or GitHub Desktop, as you prefer.
+
+## How to see other people’s contributions
+
+Again using the RStudio Git pane, to GitHub Desktop, pull from the
+remote.
+
+This will bring the changes to your local machine.
+
+Next you can render the Quarto project.
+
+All rendered files will be placed into the directory `COHORT-PAGES`.
+
+Open that and then open the file `index.html` in your browser.

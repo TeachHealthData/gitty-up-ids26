@@ -1,25 +1,34 @@
 ---
-title: Cohort repo template
-subtitle: Intake 2026
+title: Gitty-up
+subtitle: Introduction to data science - Intake 2026 cohort repo
 format: gfm
 ---
 
-## Purpose and scope
+## What is this?
 
-This repo is setup as a template for Introduction to Data Science (HEIN11037).
-It gives a minimum structure for students to contibute to a remote repo with some simple effort.
+This is your "howdy, world" GitHub repo.
+You can clone this from Rstudio:
 
-It is inteded as a space where students can add a file named for their student id (S number).
-Students can gain practice with `qmd` files, introduce themselves to their cohort, or include a small code snippet.
-Students can then clone and repo and render locally to learn about their peers.
-It deliberatley avoids creaing a Pages site at this time. 
+- New project
+- From "Version control"
+- Paste the url `https://github.com/TeachHealthData/gitty-up-ids26.git`
 
-## Usage
+## How to contribute to it
 
-In GitHub
+Then you can create a new qmd file - name it as your student number (s123456.qmd).
+This is important - don't add any other "useful" information into this filename.
 
-- create a new repo for a new cohort, give it a namw (possible sourced from the students themselves)
-- Select the option "Start with template", and search for `template-ids`
-- Modify the README as appropriate for the new cohort
-- Update the index with a list item for each student's id
+Then commit your file, and push to GitHub using either the RStudio Git pane or GitHub Desktop, as you prefer.
 
+
+## How to see other people's contributions
+
+Again using the RStudio Git pane, or GitHub Desktop, pull from the remote.
+
+This will bring the changes to your local machine.
+
+Next you can render the Quarto project.
+
+All rendered files will be placed into the directory `COHORT-PAGES`.
+
+Open that and then open the file `index.html` in your browser.
