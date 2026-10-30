@@ -1,0 +1,25 @@
+---
+title: Cohort repo template
+subtitle: Intake 2026
+format: gfm
+---
+
+## Purpose and scope
+
+This repo is setup as a template for Introduction to Data Science (HEIN11037).
+It gives a minimum structure for students to contibute to a remote repo with some simple effort.
+
+It is inteded as a space where students can add a file named for their student id (S number).
+Students can gain practice with `qmd` files, introduce themselves to their cohort, or include a small code snippet.
+Students can then clone and repo and render locally to learn about their peers.
+It deliberatley avoids creaing a Pages site at this time. 
+
+## Usage
+
+In GitHub
+
+- create a new repo for a new cohort, give it a namw (possible sourced from the students themselves)
+- Select the option "Start with template", and search for `template-ids`
+- Modify the README as appropriate for the new cohort
+- Update the index with a list item for each student's id
+
