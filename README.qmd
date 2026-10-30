@@ -32,3 +32,5 @@ Next you can render the Quarto project.
 All rendered files will be placed into the directory `COHORT-PAGES`.
 
 Open that and then open the file `index.html` in your browser.
+
+![How to open peer pages](images/cohort-pages.png)
