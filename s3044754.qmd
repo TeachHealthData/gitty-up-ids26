@@ -1,0 +1,51 @@
+---
+title: "s3044754"
+subtitle: "GitHub Activity"
+editor: visual
+author: "Angelica Manaloto"
+date: now
+toc: true
+toc-title: Contents
+format: 
+  html:
+    theme: lux
+    toc-location: left
+---
+
+## Introduction
+
+Mabuhay! My name is Angelica Manaloto, but you can call me Gel. I live in the Philippines, and I’m starting my first year of the MSc Data Science for Health and Social Care this 2026.
+
+Note: This introduction is adapted from my original post under the “Introduce Yourself” section of the Health and Social Care Data Science Hub. I've revisited it, and it’s exciting to introduce myself this time using a Quarto document! :D
+
+![Amazed](https://www.reactiongifs.com/r/ib.gif)
+
+## Background
+
+My educational and professional background lies at the intersection of public health and occupational health and safety. I currently work as a Health Program Officer in a corporate setting, wherein I design wellness programs and develop policies aimed at improving employee health and well-being.
+
+Although data analysis has always been an integral part of my work, I recognize that the field continues to evolve with increasingly large and complex datasets. This has motivated me to further develop my skills in data science .
+
+::: callout-tip
+## 💡 Fun fact
+
+I'm also a licensed Medical Laboratory Technologist in the Philippines, although I've never practiced in a hospital setting. I've always found public health research and policy development work more exciting! ;)
+:::
+
+## Hobbies
+
+In my free time, I enjoy cooking, travelling, and attending concerts. I also try to put wellness principles into practice by incorporating pilates, yoga or meditation into my routine.
+
+Since I love to travel, Edinburgh remains one of my favorite destinations so far.
+
+![Scotland Bagpipes](https://www.historic-uk.com/wp-content/uploads/2017/04/highland-bagpipes-1920x987.jpg)
+
+## Future Aspiration
+
+Through this program, I hope to build my skills in data science and health informatics, particularly as my department will be embarking on a digitalization initiative.
+
+I also hope to be more comfortable in using R, Python, SQL and other tools in data analysis and visualization.
+
+Thank you!
+
+![Nice to meet you](https://c.tenor.com/LrGE6umEeSgAAAAC/tenor.gif)
