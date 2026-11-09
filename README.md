@@ -21,13 +21,16 @@ pane or GitHub Desktop, as you prefer.
 
 ## How to see other people’s contributions
 
-Again using the RStudio Git pane, to GitHub Desktop, pull from the
+Again using the RStudio Git pane, or GitHub Desktop, pull from the
 remote.
 
 This will bring the changes to your local machine.
 
-Next you can render the Quarto project.
+Next you can render the Quarto project using the `quarto` package.
+Running `quarto::render()` in the RStudio console will render all `.qmd` files at once.
 
 All rendered files will be placed into the directory `COHORT-PAGES`.
 
 Open that and then open the file `index.html` in your browser.
+
+![How to open peer pages](images/cohort-pages.png)
