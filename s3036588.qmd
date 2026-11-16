@@ -7,9 +7,9 @@ editor: visual
 toc: true
 toc-title: contents
 format: 
-html:
-  theme: lux
-  toc-location: left
+  html:
+    theme: lux
+    toc-location: left
 ---
 
 ## Introduction
