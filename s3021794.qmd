@@ -1,0 +1,17 @@
+---
+title: "About Me"
+author: "Branislav Ceperkovic"
+editor: visual
+---
+
+Hello everyone!
+
+My name is Branislav, and I am a medical doctor from Serbia. I graduated from the Faculty of Medical Sciences, University of Kragujevac.
+
+My main academic interests are neuroscience and neurophysiology. I am also interested in the application of artificial intelligence and data science in medicine and biomedical research.
+
+I joined the MSc in Data Science for Health and Social Care at the University of Edinburgh to expand my knowledge of health data, research methods and computational approaches, and to explore how these fields can complement my medical background.
+
+Looking ahead, I hope to develop my research interests at the intersection of medicine, neuroscience and data science, while learning from people with different academic and professional backgrounds.
+
+I look forward to developing new skills and working with everyone!
