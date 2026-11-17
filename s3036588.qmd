@@ -1,0 +1,46 @@
+---
+title: "s3036588"
+subtitle: "Github cloning introduction"
+author: "Ramie Alsaeidi"
+date: 11/15/2026
+editor: visual
+toc: true
+toc-title: contents
+format: 
+  html:
+    theme: lux
+    toc-location: left
+---
+
+## Introduction
+
+Aloha, I am Ramie Alsaeidi a US trained Physician from a Syrian background; born and raised in Saudi Arabia.
+
+Currently taking a break from clinical Medicine & mainly focusing on setting up investments in different countries including a PTSD treatment facility in Syria to help the struggling population deal with war associated trauma & medical training facilities that specialize in US, UK and German medical license examination preparation.
+
+Excited to embark on this journey of learning Data-science in a deeper context, and hopefully be in a place where I can use the expertise acquired to teach it & be a part of the ever-evolving learning path.
+
+## Background
+
+I have been studying all my life when I reflect back on it, finished my A levels and jumped straight to Medical school in Riyadh. in King Faisal Specialist Hospital I got my first taste of Data-science in a medical research setting (we just did data-entry, wasn't my favorite), and it's where I continued to work as an Emergency physician.
+
+Volunteered as a Medical Practitioner in Tanzania for a year after graduation, Zanzibar will be a city I'll always cherish with its marvelous people. 
+
+Then went on to work as an MD in Chicago, IL for 3.5 years, and as an education director for medical students; where I got the inspiration to go on my own path and help wherever help was needed.
+
+::: callout-note
+I am a huge nerd for finance and a long-term investor. My first actual obsession with data wasn't in a medical setting, but was during the AI boom; I was just trying to wrap my head around what in the world was happening. Found Youtube videos to help me understand a bit of Python alongside LLM APIs and how to integrate them in data-processing allowed me to review full years of a company's financial data within a couple of days... A process that usually took me months at a time. 
+
+That sparked a thought of how in a sensitive setting like healthcare; a tool that is very reliant on the vastness & accuracy of data can be used to benefit society whilst truly protecting their privacy. On an ethical scale that is tipped towards patient confidentiality.
+:::
+
+
+## Hobbies
+
+I am a travelling fanatic, and through exploration of the world I have found pieces of myself in different countries, I travel at every single opportunity I could. I always tell my wife I don't mind just settling in Hawaii or Tahiti & just live off the ocean's breeze.
+
+I am very spiritual, something that I have acquired after hitting rock bottom in a fast paced life that I found no purpose in. My spiritual guides in Mexico, India & Oman made me realize that we can't live our lives as observers. There are no static goals, life is a set of systems that you enjoy, to head for. The willingness to change as these goals change and being content throughout the good and the bad is what I define sucess as.
+
+## Future Aspiration
+
+Remain a person who is keen to learn, adaptable to change and willing to help with all the might god has given. 
