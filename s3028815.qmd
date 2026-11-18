@@ -1,0 +1,16 @@
+---
+title: "s3028815"
+---
+
+## About Myself
+My name is Nqobile Mngometulu from the Kingdom of Eswatini in Southern Africa. 
+
+## Career
+I have been working in primary health care for nearly a decade, with roles in midwifery, NCD management, HIV/TB care, Immunization, Cervical cancer screening , data analysis and procurement for my facility. The country recently introduced the digital health record/reporting, laboratory and logistics systems which I've had the priviledge to manage in my facility and thus my new found passion for data science. 
+
+## Future Aspiration
+It is my hope to work in data analysis teams, analysing data using programming languages to influence data driven decisions such as resource planning.
+
+## Outside of Work
+I enjoy a game of football (although Manchester United hasn't made it easier these days) and music.
+![At a football game](C:/Edinburgh_Data_Science_Learning/edinburgh_coding_learning/intro_dshsc_course/cloning_repo/20260228_174124.jpg)
