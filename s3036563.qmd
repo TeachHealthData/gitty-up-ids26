@@ -1,0 +1,41 @@
+---
+title: s3036563
+format: html
+theme: minty
+---
+
+# Hello!
+
+It's lovely to get to know you all better. 
+
+My name is Kayla, and I'm a nurse from Philly (United States). 
+
+Philly is a city of contradictions, it is known as the **"City of Brotherly Love"** but is also a proud owner of the unofficial city slogan **"No one likes us, we don't care."** 
+
+Most importantly, it is home to the most chaotic sports mascots I've ever seen. 
+
+Of all the cities I've lived in,  it's been my favorite by far. 
+
+![Gritty "fixing" the liberty bell](https://975thefanatic.com/uploads/2025/11/75100623-Edit-1.jpg)
+
+
+
+# Data Science for Health and Social Care
+
+:::{.callout-caution icon=false}
+##  Tunes to Type To:
+
+I love to listen to soft music while I work,  and my recent go to for background music has been this youtube video: [Piano Ghibli Collection 1](https://www.youtube.com/watch?v=HGl75kurxok&list=RDHGl75kurxok&start_radio=1)
+:::
+
+My current job includes a lot of quality improvement work in the Neonatal Intensive Care Unit. (A place where you're never too young for caffeine ☕). 
+
+I've been very excited to learn more about data management and manipulation, because good QI is very data dependent! 
+
+
+
+# Hobbies
+
+Outside of work, I love to do crafts of all kinds.  Recently I've been really interested in knitting.  I'm currently working on my first sweater. 
+
+I also love musical theater.  There's just something about the depth of emotion than can be portrayed through music that draws me in. 
