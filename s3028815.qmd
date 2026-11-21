@@ -13,4 +13,4 @@ It is my hope to work in data analysis teams, analysing data using programming l
 
 ## Outside of Work
 I enjoy a game of football (although Manchester United hasn't made it easier these days) and music.
-![At a football game](C:/Edinburgh_Data_Science_Learning/edinburgh_coding_learning/intro_dshsc_course/cloning_repo/20260228_174124.jpg)
+![At a football game](images/20260228_174124.jpg)
